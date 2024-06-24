@@ -13,3 +13,20 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# Introduction Page
+
+## 김현민 (INFJ)
+![김현민](./images/김현민.jpg)
+
+## 이영찬 (ISFP)
+![이영찬](./images/이영찬.jpg)
+
+## 우태경 (ENFP)
+![우태경](./images/우태경.jpg)
+
+## 유인제 (ESFJ)
+![유인제](./images/유인제.jpg)
+
+## 서용준 (ESFJ)
+![서용준](./images/서용준.jpg)
