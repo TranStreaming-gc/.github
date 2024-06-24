@@ -26,7 +26,7 @@
 ![우태경](./images/우태경.jpg)
 
 ## 유인재 (ESFJ)
-![유인제](./images/유인제.jpg)
+![유인재](./images/유인제.jpg)
 
 ## 서용준 (ESFJ)
 ![서용준](./images/서용준.jpg)
