@@ -1,5 +1,5 @@
-## Hi there 👋
-### 2024 K-PaaS TranStraming
+## TranStreaming
+### 2024 K-PaaS TranStreaming
 
 실시간 영상 번역 앱
 
