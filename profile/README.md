@@ -25,7 +25,7 @@
 ## 우태경 (ENFP)
 ![우태경](./images/우태경.jpg)
 
-## 유인제 (ESFJ)
+## 유인재 (ESFJ)
 ![유인제](./images/유인제.jpg)
 
 ## 서용준 (ESFJ)
