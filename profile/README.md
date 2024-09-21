@@ -1,7 +1,6 @@
 ## TranStreaming
 ### 2024 K-PaaS TranStreaming
 
-실시간 영상 번역 앱
 
 <!--
 
@@ -17,16 +16,16 @@
 # Introduction Page
 
 ## 김현민 (INFJ)
-![김현민](./images/김현민.jpg)
+<img src="https://avatars.githubusercontent.com/khm108" width=50>
 
 ## 이영찬 (ISFP)
-![이영찬](./images/이영찬.jpg)
+<img src="https://avatars.githubusercontent.com/ManchanTime" width=50>
 
 ## 우태경 (ENFP)
-![우태경](./images/우태경.jpg)
+<img src="https://avatars.githubusercontent.com/wootaegyeoung" width=50>
 
 ## 유인재 (ESFJ)
-![유인재](./images/유인제.jpg)
+<img src="https://avatars.githubusercontent.com/sts07142" width=50>
 
 ## 서용준 (ESFJ)
-![서용준](./images/서용준.jpg)
+<img src="https://avatars.githubusercontent.com/mango0422" width=50>
